@@ -9,8 +9,7 @@ I started my journey with web development, doing some basic HTML - CSS - Javascr
 * 🌍  I'm based in Leghorn, Italy
 * 🖥️  See my portfolio at [www.lucadelcorona.com](http://www.lucadelcorona.com/)
 * ✉️  You can contact me at [lucadelc@gmail.com](mailto:lucadelc@gmail.com)
-* 🚀  I'm currently working on TapIt
-* 🧠  I'm learning Flutter, Javascript, Typescript, Node.js
+* 🧠  I'm specialized in Flutter, Dart, Javascript, Typescript, Node.js
 * 🤝  I'm open to collaborating on Full-Stack projects and Mobile projects
 
 ### Skills
