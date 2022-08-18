@@ -7,11 +7,10 @@ Full-Stack Developer
 I started my journey with web development, doing some basic HTML - CSS - Javascript. Then i started to learn Java with the purpose to write some Minecraft's plugins, and after making some basics things i discovered how big is the world of developers. Right now I'm currently learning mobile development creating some project (Making also the backend). All of my public projects can be found in my Github profile.
 
 * 🌍  I'm based in Leghorn, Italy
-* 🖥️  See my portfolio at [www.lucadelcorona.com](http://www.lucadelcorona.com/)
 * ✉️  You can contact me at [lucadelc@gmail.com](mailto:lucadelc@gmail.com)
 * 🧠  I'm specialized in Flutter, Dart, Javascript, Typescript, Node.js
 * 🤝  I'm open to collaborating on Full-Stack projects and Mobile projects
-
+<!-- * 🖥️  See my portfolio at [www.lucadelcorona.com](http://www.lucadelcorona.com/) -->
 ### Skills
 
 <p align="left">
