@@ -4,13 +4,13 @@ Hi 👋 My name is Luca
 Full-Stack Developer
 --------------------
 
-I started my journey with web development, doing some basic HTML - CSS - Javascript. Then i started to learn Java with the purpose to write some Minecraft's plugins, and after making some basics things i discovered how big is the world of developers. Right now I'm currently learning mobile development creating some project (Making also the backend). All of my public projects can be found in my Github profile.
+Passionate and curious developer, specialized in the design and implementation of mobile applications and software with different utilities. Excellent knowledge of English, spoken and written. Familiar with Agile development models. Excellent knowledge of operating systems and suites, programming languages such as Java, Dart, Javascript, Typescript, C, C ++, SQL, PHP, frameworks and libraries such as Flutter, Symfony, React, Node.js, Express.js, Socket.io and relational and non-relational databases, such as MySQL, PostgresQL, MariaDB and MongoDB.
 
 * 🌍  I'm based in Leghorn, Italy
 * ✉️  You can contact me at [lucadelc@gmail.com](mailto:lucadelc@gmail.com)
 * 🧠  I'm specialized in Java, Dart, Javascript, Typescript, C, C++, SQL, PHP
 * 🤝  I'm open to collaborating on Full-Stack projects and Mobile projects
-<!-- * 🖥️  See my portfolio at [www.lucadelcorona.com](http://www.lucadelcorona.com/) -->
+* 🖥️  See my portfolio at [www.lucadelcorona.com](http://www.lucadelcorona.com/)
 ### Skills
 
 <p align="left">
