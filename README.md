@@ -1,4 +1,4 @@
-👋 Hi My name is Luca 
+👋 Hi my name is Luca 
 =====================
 
 <strong>Full-Stack Developer</strong>
