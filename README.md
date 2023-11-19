@@ -3,6 +3,9 @@ Hi 👋 My name is Luca
 
 <strong>Full-Stack Developer</strong>
 
-Passionate and curious developer, specialized in the design and implementation of mobile applications and software with different utilities. Excellent knowledge of English, spoken and written. Familiar with Agile development models. Excellent knowledge of operating systems and suites, programming languages such as Java, Dart, Javascript, Typescript, C, C ++, SQL, PHP, frameworks and libraries such as Flutter, Symfony, React, Node.js, Express.js, Socket.io and relational and non-relational databases, such as MySQL, PostgresQL, MariaDB and MongoDB.
+As I continue to grow in my software development career, I am eager to take on new challenges and expand my expertise in mobile and backend development. I am actively seeking opportunities that allow me to work on innovative projects, collaborate with like-minded professionals, and make a positive impact on the technology landscape.
 
-* 🖥️  See my portfolio at [www.lucadelcorona.com](http://www.lucadelcorona.com/)
+I am always open to connecting with fellow professionals, industry experts, and those interested in discussing technology trends, best practices, and potential collaborations. Feel free to reach out, and let's explore how we can connect and contribute to each other's professional journeys.
+
+* 🖥️ See my portfolio at [www.lucadelcorona.com](http://www.lucadelcorona.com/)
+* ✌️ Connect with me on [LinkedIn](https://www.linkedin.com/in/luca-del-corona/)
