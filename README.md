@@ -1,11 +1,12 @@
 👋 Hi, I'm Luca 
 =====================
 
-<strong>Full-Stack Developer</strong>
+<strong>Android & Cross-platform (Flutter / React native) Developer</strong>
 
-As I continue to grow in my software development career, I am eager to take on new challenges and expand my expertise in mobile and backend development. I am actively seeking opportunities that allow me to work on innovative projects, collaborate with like-minded professionals, and make a positive impact on the technology landscape.
+I’m a passionate mobile developer with expertise in both native Android and cross-platform development. 
+I have a deep enthusiasm for Flutter and its ecosystem, constantly exploring new ways to leverage its capabilities to build seamless, high-performance apps.
 
-I am always open to connecting with fellow professionals, industry experts, and those interested in discussing technology trends, best practices, and potential collaborations. Feel free to reach out, and let's explore how we can connect and contribute to each other's professional journeys.
+Feel free to reach out!
 
 * 🖥️ Check out my <a href="https://www.lucadelcorona.com/" target="_blank">portfolio</a>
 * 💼 Currently working at <a href="https://www.avvale.com/" target="_blank">Avvale</a>
