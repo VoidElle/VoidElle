@@ -1,7 +1,7 @@
 👋 Hi, I'm Luca 
 =====================
 
-<strong>Android & Cross-platform (Flutter / React native) Developer</strong>
+<strong>Android native & Cross-platform (Flutter / React native) Developer</strong>
 
 I’m a passionate mobile developer with expertise in both native Android and cross-platform development. 
 I have a deep enthusiasm for Flutter and its ecosystem, constantly exploring new ways to leverage its capabilities to build seamless, high-performance apps.
