@@ -1,10 +1,15 @@
-👋 Hi, I'm Luca 
-=====================
+## 👋 Hi, I'm Luca
 
-<strong>Android native & Cross-platform (Flutter / React native) Engineer</strong>
+Mobile engineer focused on **systems, integrations and real-world applications**.
 
-I’m a passionate mobile developer with expertise in both native Android and cross-platform development. 
-I have a deep enthusiasm for Flutter and its ecosystem, constantly exploring new ways to leverage its capabilities to build seamless, high-performance apps.
+While I build apps with Android, Flutter and React Native, I’m most interested in what happens beyond the UI:
+how apps communicate, how devices behave, and how systems fit together.
+
+### 🛠️ Stack
+
+- 📱 Flutter, React Native (Expo), Android (Kotlin, Java, Compose)  
+- ☁️ AWS (S3, Amplify, AppSync, Cognito) + REST APIs  
+- 🔥 Firebase (Firestore, Crashlytics, Remote Config)  
 
 Feel free to reach out!
 
