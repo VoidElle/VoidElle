@@ -10,4 +10,3 @@ Feel free to reach out!
 
 * 🖥️ Check out my <a href="https://www.lucadelcorona.com/" target="_blank">portfolio</a>
 * 💼 Currently working at <a href="https://www.avvale.com/" target="_blank">Avvale</a>
-* ✌️ Connect with me on <a href="https://www.linkedin.com/in/luca-del-corona/" target="_blank">LinkedIn</a>
