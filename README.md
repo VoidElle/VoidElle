@@ -1,9 +1,8 @@
 ## 👋 Hi, I'm Luca
 
-Mobile engineer focused on **systems, integrations and real-world applications**.
+**Mobile engineer focused on systems, integrations and real-world applications.**
 
-While I build apps with Android, Flutter and React Native, I’m most interested in what happens beyond the UI:
-how apps communicate, how devices behave, and how systems fit together.
+Building apps is my core, but I’m most interested in what happens behind them: APIs, IoT devices and real-world interactions.
 
 ### 🛠️ Stack
 
