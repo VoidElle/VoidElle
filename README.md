@@ -13,4 +13,5 @@ Building apps is my core, but I’m most interested in what happens behind them:
 
 Feel free to reach out!
 
-💼 Currently working at <a href="https://www.avvale.com/" target="_blank">Avvale</a>
+💼 Currently working at <a href="https://www.avvale.com/" target="_blank">Avvale</a>  
+🏋️‍♂️ Currently building <a href="https://gymnalyzer.com/" target="_blank">Gymnalyzer</a>
