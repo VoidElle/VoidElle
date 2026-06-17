@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Luca
 
-**Mobile engineer focused on systems, integrations and real-world applications.**
+**Software engineer focused on systems, integrations and real-world applications.**
 
 Building apps is my core, but I’m most interested in what happens behind them: APIs, IoT devices and real-world interactions.
 
